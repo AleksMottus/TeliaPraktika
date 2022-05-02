@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teliapraktika/static/css/main.144f0a5c.css",
+    "main.js": "/teliapraktika/static/js/main.bac0a1e0.js",
+    "static/js/787.6433623e.chunk.js": "/teliapraktika/static/js/787.6433623e.chunk.js",
+    "index.html": "/teliapraktika/index.html",
+    "main.144f0a5c.css.map": "/teliapraktika/static/css/main.144f0a5c.css.map",
+    "main.bac0a1e0.js.map": "/teliapraktika/static/js/main.bac0a1e0.js.map",
+    "787.6433623e.chunk.js.map": "/teliapraktika/static/js/787.6433623e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144f0a5c.css",
+    "static/js/main.bac0a1e0.js"
+  ]
+}
